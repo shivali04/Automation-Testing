@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Learning]">
+  <test name="Learning Framework  Test(failed)">
+    <classes>
+      <class name="scripts.Initialisation">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- scripts.Initialisation -->
+      <class name="scripts.HomePage">
+        <methods>
+          <include name="courseInformationDetail"/>
+          <include name="createLearningItemClicks"/>
+          <include name="homePageLinkClicks"/>
+        </methods>
+      </class> <!-- scripts.HomePage -->
+    </classes>
+  </test> <!-- Learning Framework  Test(failed) -->
+</suite> <!-- Failed suite [Learning] -->

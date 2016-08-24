@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Learning" duration-ms="353971" started-at="2015-03-24T04:59:02Z" finished-at="2015-03-24T05:04:56Z">
+    <groups>
+    </groups>
+    <test name="Learning Framework  Test" duration-ms="353971" started-at="2015-03-24T04:59:02Z" finished-at="2015-03-24T05:04:56Z">
+      <class name="scripts.Homeshop18">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:scripts.Homeshop18@5e88f7]" name="setUp" is-config="true" duration-ms="215630" started-at="2015-03-24T10:29:02Z" finished-at="2015-03-24T10:32:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:scripts.Homeshop18@5e88f7]" name="loginTest" duration-ms="57362" started-at="2015-03-24T10:32:38Z" finished-at="2015-03-24T10:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="allCategories()[pri:0, instance:scripts.Homeshop18@5e88f7]" name="allCategories" duration-ms="29832" started-at="2015-03-24T10:33:35Z" finished-at="2015-03-24T10:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allCategories -->
+        <test-method status="PASS" signature="personalInformationDetils()[pri:0, instance:scripts.Homeshop18@5e88f7]" name="personalInformationDetils" duration-ms="39123" started-at="2015-03-24T10:34:05Z" finished-at="2015-03-24T10:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalInformationDetils -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:scripts.Homeshop18@5e88f7]" name="Logout" duration-ms="11994" started-at="2015-03-24T10:34:44Z" finished-at="2015-03-24T10:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- scripts.Homeshop18 -->
+    </test> <!-- Learning Framework  Test -->
+  </suite> <!-- Learning -->
+</testng-results>
